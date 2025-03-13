@@ -35,7 +35,7 @@ docker run --name 91160-ocr-server \
 -p 8000:8000 \
 -e TZ=Asia/Shanghai \
 --restart=always \
--d 91160-ocr-server:latest
+-d ghcr.io/pengpan/91160-ocr-server:latest
 ```
 
 ## API
