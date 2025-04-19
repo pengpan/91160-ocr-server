@@ -2,6 +2,8 @@
 
 ## Run
 
+python version >= 3.9
+
 1. 安装依赖
 
 ```shell
